@@ -1,0 +1,9 @@
+{
+	"name": "finance-report",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bfe1f00-a3b1-4035-b065-2e6bb03a5cf9",
+		"tenantId": "c9b17b62-4dd5-44f5-a0cf-34e14b12a7d9"
+	}
+}
